@@ -11,7 +11,7 @@
   "r2_buckets": [
     {
       "binding": "bucket",
-      "bucket_name": "wrld-r2-explorer",
+      "bucket_name": "wrld-r2",
       "preview_bucket_name": "r2-explorer-bucket"
     }
   ],
